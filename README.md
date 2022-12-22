@@ -1,2 +1,2 @@
 # my-repo
-thidis for application code 
+this is for application code 
